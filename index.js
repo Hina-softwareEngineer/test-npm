@@ -3,7 +3,7 @@ function helloNpm() {
 }
 
 function bye() {
-    return 'bye byes';
+    return 'bye byes byes';
 }
 
 module.exports = { helloNpm, bye };
