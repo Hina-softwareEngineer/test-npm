@@ -11,7 +11,8 @@
   "release": {
     "branches": [
       "main",
-      "hina-dev"
+      "hina-dev",
+      "refs/tags/*"
     ]
   }
 }
