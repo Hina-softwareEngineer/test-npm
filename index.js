@@ -1,5 +1,9 @@
 function helloNpm() {
-    return "hello NPM";
+    return "hello NPM byes";
 }
 
-module.exports = helloNpm
+function bye() {
+    return 'bye byes twos';
+}
+
+module.exports = { helloNpm, bye };
